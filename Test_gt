@@ -1,0 +1,34 @@
+<html>
+
+<a class="lightbox" href="#goofy">
+   <img src="https://thumb.ibb.co/hC9eM5/Yellow.png">
+  </div>
+  <a href="#_" class="lightbox" id="img1">
+  <img src="https://ibb.co/hC9eM5">
+
+</a>
+</a>
+<div class="lightbox-target" id="goofy">
+   <img src="https://image.ibb.co/fP7ATk/Yellow.png"/>
+   <a class="lightbox-close" href="#"></a>
+  <div class="lightbox-hover">
+  <img src="https://thumb.ibb.co/hC9eM5/Yellow.png" alt="Avatar" class="image">
+  <div class="overlay">
+  </div>
+</div>
+</div>
+
+
+<div class="container">
+  <div class="btn-group">
+    <div class="btn_1">
+    <button type="button" class="btn btn-primary"> <a href="https://ibb.co/b4f8yk"><img src="https://preveiw.ibb.co/nOgsPQ/Liam_Neeson.png">LIAM NEESON</a></button>
+      </div>
+    <div class="btn_2">
+    <button type="button" class="btn btn-primary"> <a href="http://www.vitamin-ha.com/wp-content/uploads/2012/12/Vh-funny-pictures-auto-402325.jpeg">LIAM NEESON</a></button>
+    </div>
+    <div class="btn_3">
+      <button type="button" class="btn btn-primary"> <a href="https://ibb.co/hZ5BjQ">LIAM NEESON</a></button>
+    </div>
+  </div>
+</div>
